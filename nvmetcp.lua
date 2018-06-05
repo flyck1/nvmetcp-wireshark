@@ -1,8 +1,7 @@
 ----------------------------------------
 -- script-name: nvmetcp.lua
 --
--- author: Nikolay Assa <Nikolay.Assa@cavium.com>
--- Copyright (C) 2018 Cavium, Inc
+-- author: Nikolay Assa <niko.assa@gmail.com>
 --
 -- Version: 0.3
 --
